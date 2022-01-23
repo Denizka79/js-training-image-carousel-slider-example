@@ -1,0 +1,19 @@
+.carousel-container {
+    width: 60%;
+    margin: auto;
+    width: 640px;
+    height: auto;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+img {
+    display: block;
+    width: 640px;
+    height: 400px;
+}
